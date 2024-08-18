@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Coder
 -----
 
-Hello! I'm Aman , a passionate 2nd-year IT student at VIT Vellore. Currently diving deep into the world of Data Structures and Algorithms in C++. I've honed my skills in Java, C, and C++, and know basics fundamental in Python. Join me on my coding journey as I explore the realms of programming and continuously expand my knowledge. Let's build, innovate, and learn together! 🚀💻 #CodingEnthusiast #ITStudent #DataStructures #Algorithms #Java #C #CPP #Python #VITVellore
+Hello! I'm Aman , a passionate 2nd-year IT student at VIT Vellore. Currently diving deep into the world of Data Structures and Algorithms in C++. I've honed my skills in Java, C, and C++, and know basics fundamental in Python.Learning FLUTTER , driven by my passionn for app development . Join me on my coding and development journey as I explore the realms of programming and continuously expand my knowledge. Let's build, innovate, and learn together! 🚀💻 #CodingEnthusiast #ITStudent #DataStructures #Algorithms  #CPP #VITVellore
 
 *   🌍  I'm based in Patna
 *   ✉️  You can contact me at [kr.amank27@gmail](mailto:kr.amank27@gmail)
-*   🧠  I'm learning I'm learning DSA in C++
+*   🧠  I'm learning  DSA in C++ and App Development using FLUTTER
 *   🤝  I'm open to collaborating on I'm open to collaborating on on practicing competitive programming
 *   ⚡  I'M SECRETLY A SPIDERMAN ... DONT TELL ANYONE### Skills 
 <p align="left">
