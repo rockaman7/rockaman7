@@ -25,3 +25,9 @@ Hello! I'm Aman , a passionate 3rd-year IT student at VIT Vellore. Currently div
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
+
+ ### Watch snake eating my github contribution
+                        
+![snake gif](https://github.com/rockaman7/rockaman7/blob/output/github-contribution-grid-snake.svg)
+
+
