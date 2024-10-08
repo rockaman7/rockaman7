@@ -38,6 +38,10 @@ Hello! I'm Aman , a passionate 3rd-year IT student at VIT Vellore. Currently div
   </a>
 </p>
 
+### My Github Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rockaman7&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
  ### Watch snake eating my github contribution
                         
 ![snake gif](https://github.com/rockaman7/rockaman7/blob/output/github-contribution-grid-snake.svg)
