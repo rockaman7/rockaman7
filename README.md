@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Coder
 -----
 
-Hello! I'm Aman , a passionate 3rd-year IT student at VIT Vellore. Currently diving deep into the world of Data Structures and Algorithms in C++. I've honed my skills in Java, C, and C++, and know basics fundamental in Python.Learning FLUTTER , driven by my passionn for app development . Join me on my coding and development journey as I explore the realms of programming and continuously expand my knowledge. Let's build, innovate, and learn together! 🚀💻 #CodingEnthusiast #ITStudent #DataStructures #Algorithms  #CPP #VITVellore
+Hello! I'm Aman , a passionate 3rd-year IT student at VIT Vellore. Currently diving deep into the world of Data Structures and Algorithms in C++. I've honed my skills in Java, C, and C++, and know basics fundamental in Python.Learning FLUTTER , driven by my passionn for app development . Join me on my coding and development journey as I explore the realms of programming and continuously expand my knowledge. Let's build, innovate, and learn together! 🚀💻
 
 *   🌍  I'm based in Patna
 *   ✉️  You can contact me at [kr.amank27@gmail](mailto:kr.amank27@gmail)
