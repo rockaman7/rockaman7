@@ -9,7 +9,7 @@ Hello! I'm Aman , a passionate 3rd-year IT student at VIT Vellore. Currently div
 *   🌍  I'm based in Patna
 *   ✉️  You can contact me at [kr.amank27@gmail](mailto:kr.amank27@gmail)
 *   🧠  I'm learning  DSA in C++ and App Development using FLUTTER
-*   🤝  I'm open to collaborating on I'm open to collaborating on on practicing competitive programming
+*   🤝  I'm open to collaborating on practicing competitive programming
 *   ⚡  I'M SECRETLY A SPIDERMAN ... DONT TELL ANYONE
 ### Skills 
 <p align="left">
