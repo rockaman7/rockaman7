@@ -18,25 +18,33 @@ Hello! I'm Aman , a passionate 3rd-year IT student at VIT Vellore. Currently div
   </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/express/" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/express/icons/adobe-express-logo.svg" width="36" height="36" alt="Adobe Express" /></a>
                     </p>
                     
- ### Socials
+### Socials
                   
-                  
-  <p align="left">
-                      <a href="https://www.github.com/rockaman7" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
+<p align="left">
+  <!-- GitHub -->
+  <a href="https://www.github.com/rockaman7" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
 
-<a href="https://www.linkedin.com/in/kumaraman7" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kumaraman7" target="_blank" rel="noreferrer" style="margin-left: 10px;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
   </a>
+
+  <!-- Codolio -->
+  <a href="https://codolio.com/profile/KRaman" target="_blank" rel="noreferrer" style="margin-left: 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/889/889192.png" alt="Codolio" width="32" height="32" />
+  </a>
 </p>
+
 
 ### My Github Stats
 
