@@ -41,7 +41,7 @@ Hello! I'm Aman , a passionate 3rd-year IT student at VIT Vellore. Currently div
 
   <!-- Codolio -->
   <a href="https://codolio.com/profile/KRaman" target="_blank" rel="noreferrer" style="margin-left: 10px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/889/889192.png" alt="Codolio" width="32" height="32" />
+    <img src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio" width="32" height="32" />
   </a>
 </p>
 
